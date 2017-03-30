@@ -40,14 +40,3 @@ Throughout the night you will be asked a to answer questions and to complete cha
 > **Cop:** I have a source telling me that you said you were going to "Stab Elvis in the back, like Brutus stabbed Caesar."
 >
 > Damn it Crystal, I trusted you! That's the name of the stripper-source that told you, isn't it? I was just drunk and frustrated, that's all.
-
-# Clues
-
-1. **Elvis has been seen talking to the gigolo and the singing teacher at the same time.**
-2. The gladiator was once hit on by the singing teacher.
-3. **A divorce lawyer has been talking to the singing teacher's wife, but won't say what they were talking about.**
-4. The singing teacher has been going to couple's therapy with his wife, and they seem happy.
-5. **A reporter has seen Elvis leave the singing teacher's home early in the morning.**
-6. A reporter has been following Elvis for a story and knows that he is in a relationship with someone who is married.
-7. **The gladiator claims that Elvis asked the singing teacher to leave his wife.**
-8. The singing teacher seems to be both angry and loving when talking about Elvis.
