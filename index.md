@@ -11,9 +11,9 @@ The Las Vegas Police Department (LVPD) has seen fit to challenge its two best te
 
 Throughout the night you will be asked a to answer questions and to complete challenges to gain information. You must piece these together to determine who is the murderer. Local police has narrowed it down to four suspects:
 
-| The Singing Teacher                      | The Gun Nut                  | The Gigolo                               | The Gladiator Actor                  |
-| ---------------------------------------- | ---------------------------- | ---------------------------------------- | ------------------------------------ |
-| ![dirty_Reporter_-_Google-søgning](img/dirty_Reporter_-_Google-søgning.png) | ![Unknown](img/Unknown.jpeg) | ![Skærmbillede 2017-03-26 kl. 12.37.52](img/Skærmbillede 2017-03-26 kl. 12.37.52.png) | ![Unknown-2-1](img/Unknown-2-1.jpeg) |
+| The Singing Teacher                      | The Gun Nut                              | The Gigolo                               | The Gladiator Actor                      |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| ![Imgur](http://i.imgur.com/8mLGnjN.png) | ![Imgur](http://i.imgur.com/1kifNuN.jpg) | ![Imgur](http://i.imgur.com/03IKlsT.png) | ![Imgur](http://i.imgur.com/GsoSzAy.jpg) |
 
 ## The Singing Teacher
 
